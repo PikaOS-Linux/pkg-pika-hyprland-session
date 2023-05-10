@@ -1,4 +1,4 @@
-pika-session (1.0-99pika2) lunar; urgency=low
+pika-session (1.0-99pika3.lunar) lunar; urgency=low
 
   * Fix libunity for VRR session
 
