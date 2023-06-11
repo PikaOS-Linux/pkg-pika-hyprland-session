@@ -4,7 +4,7 @@ add-apt-repository https://ppa.pika-os.com
 add-apt-repository ppa:pikaos/pika
 add-apt-repository ppa:kubuntu-ppa/backports
 # Clone Upstream
-cd ./pika-session
+cd ./pika-hyprland-session
 
 # Get build deps
 apt-get build-dep ./ -y
