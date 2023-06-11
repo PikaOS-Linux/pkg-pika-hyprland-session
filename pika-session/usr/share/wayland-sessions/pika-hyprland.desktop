@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Pika Hyprland
+Comment=An intelligent dynamic tiling Wayland compositor
+Exec=Hyprland
+Type=Application
